@@ -1,4 +1,4 @@
 sinon.ios
 =========
 
-iOS source for the Trammy Dodger app (incomplete).
+iOS Objective-C source for the Trammy Dodger app (incomplete).
